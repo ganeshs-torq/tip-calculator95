@@ -1,2 +1,1 @@
-# tip-calculator95
- tip calculator application built using javascript,html,css
+# tip-calculator application developed using javascript
